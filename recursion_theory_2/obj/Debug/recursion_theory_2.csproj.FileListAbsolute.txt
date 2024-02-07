@@ -1,0 +1,16 @@
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\bin\Debug\recursion_theory_2.exe.config
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\bin\Debug\recursion_theory_2.exe
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\bin\Debug\recursion_theory_2.pdb
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.csproj.AssemblyReference.cache
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.exe
+C:\Users\Ilnaz.Farhullin\Desktop\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.pdb
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\bin\Debug\recursion_theory_2.exe.config
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\bin\Debug\recursion_theory_2.exe
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\bin\Debug\recursion_theory_2.pdb
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.exe
+C:\Users\Пользователь\Desktop\Программы для теории\recursion_theory\recursion_theory_2\obj\Debug\recursion_theory_2.pdb
